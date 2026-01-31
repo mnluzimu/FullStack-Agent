@@ -17,6 +17,12 @@ Instructions for installation and running of the three components are in the fol
 
 - [FullStack-Learn](https://github.com/mnluzimu/FullStack-Learn)
 
+### Models
+
+| Model Name | Huggingface Link |
+|------------|------------------|
+| FullStack-Learn-LM-30B-A3B| [luzimu/FullStack-Learn-LM-30B-A3B](https://huggingface.co/luzimu/FullStack-Learn-LM-30B-A3B) |
+
 ### Appearance Evaluation
 
 ```bash
