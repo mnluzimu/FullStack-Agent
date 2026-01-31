@@ -1,0 +1,9 @@
+[submodule "FullStack-Dev"]
+	path = FullStack-Dev
+	url = git@github.com:mnluzimu/FullStack-Dev.git
+[submodule "FullStack-Bench"]
+	path = FullStack-Bench
+	url = git@github.com:mnluzimu/FullStack-Bench.git
+[submodule "FullStack-Learn"]
+	path = FullStack-Learn
+	url = git@github.com:mnluzimu/FullStack-Learn.git
