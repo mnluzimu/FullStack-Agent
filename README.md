@@ -15,7 +15,7 @@ Instructions for installation and running of the three components are in the fol
 
 - [FullStack-Learn](https://github.com/mnluzimu/FullStack-Learn)
 
-- [FullStack-Learn](https://github.com/mnluzimu/FullStack-Learn)
+- [FullStack-Bench](https://github.com/mnluzimu/FullStack-Bench)
 
 ### Models
 
