@@ -47,6 +47,16 @@ Experimental results of FullStack-Learn tested on with FullStack-Dev on FullStac
 
 ![experiments](assets/experiments.png)
 
+## Related Works
+
+- **WebGen-Bench**: A benchmark for evaluating LLM-based agents on generating interactive and functional websites from scratch. It contains 101 website-generation instructions, 647 test cases, and a training set of 6,667 instructions named WebGen-Instruct.  
+  GitHub: [mnluzimu/WebGen-Bench](https://github.com/mnluzimu/WebGen-Bench)  
+  Paper: [WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch](https://arxiv.org/abs/2505.03733)
+
+- **WebGen-Agent**: An advanced website generation agent that autonomously creates websites from natural language instructions. It iteratively generates website codebases and refines them using visual and functional feedback, including screenshot-based VLM feedback and GUI-agent feedback.  
+  GitHub: [mnluzimu/WebGen-Agent](https://github.com/mnluzimu/WebGen-Agent)  
+  Paper: [WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning](https://arxiv.org/abs/2509.22644)
+
 ### Cite
 If you find our project helpful, please cite:
 
